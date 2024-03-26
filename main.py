@@ -7,9 +7,9 @@ if user_choice == '1':
 elif user_choice == '2':
     import YTNameGenerator
 elif user_choice == '3':
-     import R_P_C_Game
+    import R_P_C_Game
 else:
-    print("Invalid choice. Please enter 1 or 2.")
+    print("Invalid choice. Please enter 1 or 2 or 3.")
 
     # run the program again user want
 user_choice = input("Do you want to run again? Enter 'Y' to continue: ")
